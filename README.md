@@ -1,2 +1,2 @@
 # MyCaptain
-Devolped by Boudhik Shaj for studying java
+Devolped by Boudhik Shaj for studying java & python
