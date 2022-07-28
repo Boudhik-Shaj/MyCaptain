@@ -8,3 +8,4 @@ for i in range(StringLength,-1,-1):
         l= len(name) - i
         ExtensionString = name[-l:]
         print("file extension is ",ExtensionDictionary[str(ExtensionString)])
+        break
